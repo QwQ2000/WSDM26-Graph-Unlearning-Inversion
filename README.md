@@ -1,6 +1,6 @@
 ## Graph-Unlearning-Inversion
 
-This is the PyTorch implementation for our WSDM'26 paper "**Unlearning Inversion Attack for Graph Neural Networks**". Please find an early access version of our paper on arXiv (https://arxiv.org/abs/2506.00808).
+This is the PyTorch implementation for our WSDM'26 paper "**Unlearning Inversion Attack for Graph Neural Networks**" (https://dl.acm.org/doi/abs/10.1145/3773966.3777929). Please find the full version of our paper on arXiv (https://arxiv.org/abs/2506.00808).
 
 This codebase was adapted from [GIF-torch](https://github.com/wujcan/GIF-torch/). 
 
@@ -28,9 +28,10 @@ If you find our work useful in your research, please cite the following in your 
 
 ```
 @inproceedings{zhang2026unlearning,
-  title={Unlearning Inversion Attacks for Graph Neural Networks}, 
-  author={Jiahao Zhang and Yilong Wang and Zhiwei Zhang and Xiaorui Liu and Suhang Wang},
-  year={2026},
-  booktitle={The ACM International Conference on Web Search and Data Mining (WSDM)},
+  title={Unlearning inversion attacks for graph neural networks},
+  author={Zhang, Jiahao and Wang, Yilong and Zhang, Zhiwei and Liu, Xiaorui and Wang, Suhang},
+  booktitle={Proceedings of the Nineteenth ACM International Conference on Web Search and Data Mining},
+  pages={934--945},
+  year={2026}
 }
 ```
